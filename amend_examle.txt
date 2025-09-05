@@ -1,0 +1,3 @@
+"commit before amend command" 
+"change file before amend command" 
+"commit before amend command" 
